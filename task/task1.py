@@ -32,7 +32,6 @@ def zpracuj_produkty(seznam_produktu):
     stock_product_prices = {}
     out_of_stock_products = []
 
-    # Příklad: Nahraď 'pass' svou implementací
     pass
 
     return total_value, stock_product_prices, out_of_stock_products
