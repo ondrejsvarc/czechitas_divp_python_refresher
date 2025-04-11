@@ -1,0 +1,11 @@
+{
+    "total_stock_value": 293502.5,
+    "in_stock_details": {
+        "External HDD": 37500.0,
+        "Keyboard": 6002.5,
+        "Laptop": 250000
+    },
+    "products_out_of_stock": [
+        "Mouse"
+    ]
+}
