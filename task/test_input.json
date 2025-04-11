@@ -2,7 +2,7 @@
       {"name": "Laptop", "price": 25000, "stock": 10},
       {"name": "Mouse", "price": 800, "stock": 0},
       {"name": "Keyboard", "price": 1200.50, "stock": 5},
-      {"name": "Monitor"},
+      {"name": "Monitor", "price":  null, "stock": 6},
       {"name": "Webcam", "price": "cena?", "stock": 10},
       {"name": "Invalid Product Entry"},
       {"name": "Adapter", "price": 300, "stock": -5},
